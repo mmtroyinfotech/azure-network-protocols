@@ -29,6 +29,10 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <h2>Actions and Observations</h2>
 
 <p>
+<img src="https://www.freecodecamp.org/news/content/images/size/w2000/2020/08/wireshark-1.png"/>
+</p>
+
+<p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
