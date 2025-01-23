@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" 300px>
 <img src="https://i.imgur.com/Ua7udoS.png" alt="Traffic Examination"/>
 </p>
 
