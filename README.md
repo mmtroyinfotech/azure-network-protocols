@@ -37,7 +37,7 @@ With Wireshark, you can capture and interactively browse the traffic running on 
 </p>
 <br />
 
-https://github.com/user-attachments/assets/4df6a3a2-d7b2-46d5-8b70-ca0c232c8cb8
+- ### [Youtube: Install Wireshark on a Azure Virtual Machine](https://www.youtube.com/watch?v=eOQ-TWQUFdo)
 
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
